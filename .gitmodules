@@ -1,3 +1,6 @@
 [submodule "Template/Assets/Editor/Initialization"]
 	path = Template/Assets/Editor/Initialization
 	url = git@github.com:gwenaelhagen/UnityEditorInitialization
+[submodule "Template/_openProject"]
+	path = Template/_openProject
+	url = git@github.com:gwenaelhagen/UnityOpenProject
